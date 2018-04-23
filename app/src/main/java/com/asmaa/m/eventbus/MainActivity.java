@@ -34,11 +34,7 @@ String get1="ghghghg";
         });
     }
 
-    @Override
-    protected void onStart() {
-        super.onStart();
 
-    }
 
     @Override
     protected void onStop() {
